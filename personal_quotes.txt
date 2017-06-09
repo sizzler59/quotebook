@@ -1,7 +1,5 @@
 Strenght through struggle -- Michael Choi
 
-<<<<<<< HEAD
 I like Green -- Jay patel
-=======
-i like yello - Jay patel
->>>>>>> personal_color
+
+Jay actually likes black - Shane Chang
